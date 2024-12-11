@@ -11,5 +11,5 @@
 
 # Documentação
 
-<ol>
-<li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+video Laura: https://youtu.be/k6Re1KNFWRY
+video José:  https://youtu.be/6aGTue5pjHQ
