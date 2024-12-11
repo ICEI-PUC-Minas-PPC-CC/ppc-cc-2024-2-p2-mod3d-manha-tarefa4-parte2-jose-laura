@@ -1,4 +1,4 @@
-# 2 pilastras e uma cara 
+# 2 pilastras e um Rosto em 3D
 
 ## Integrantes
 
